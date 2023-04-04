@@ -1,6 +1,4 @@
-package org.example;
-
-import org.w3c.dom.ls.LSOutput;
+package ru.netology.services;
 
 public class Main {
     public static void main(String[] args) {

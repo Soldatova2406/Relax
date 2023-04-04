@@ -1,4 +1,4 @@
-package org.example;
+package ru.netology.services;
 
 public class RestCounter {
     public int calculate(int income, int expenses, int threshold) {
